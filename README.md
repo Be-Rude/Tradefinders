@@ -61,15 +61,15 @@ In the second terminal, you will start the React Development server.
 
 ## User Experience
 
-The user will be able to search for categorized trade types and locations. They can then navigate through the application and view the various search results meeting that criteria and view the company profiles.
+The user will be able to search for categorized trade types and/or locations. They can then navigate through the application and view the various search results meeting that criteria and view the company profiles.
 
-Within the company profiles the user can see reviews and ratings. The average rating system is based on 4 main criterias: Cleanliness, Reliability, Value and Workmanship. Reviews can be added by visiting the add review page.
+Within the company profiles the user can see reviews and ratings. The average rating system is based on 4 main criterias: Cleanliness, Reliability, Value and Workmanship. Reviews can be added by clicking "add review" within the company profile view.
 
 The user can also request a quotation by completing the quotation form.
 
 If a company wishes to list their business on the website, they can do so by completing the form by clicking on the Add Company button in the navigation panel.
 
-#### Created by Jaspinder Sabharwal, Brad Ruud and Kevin Cheng @ Lighthouse Labs 2020
+#### Created with pride by Jaspinder Sabharwal, Brad Ruud and Kevin Cheng @ Lighthouse Labs May 2020
 
 
 
